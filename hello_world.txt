@@ -1,0 +1,48 @@
+[16:42:34] <NeatNit> can someone teach me real quick how to get started with git and github?
+[16:42:38] <daman> !hinrr 15
+[16:42:44] <daman> !hint 15
+[16:42:54] <NeatNit> like, the basicest basics
+[16:43:16] <ngc0202> https://guides.github.com/activities/hello-world/
+[16:43:20] <PDA> [url2title] Hello World · GitHub Guides
+[16:43:46] <ngc0202> and this http://rogerdudler.github.io/git-guide/
+[16:43:49] <PDA> [url2title] git - the simple guide - no deep shit!
+[16:44:11] <NeatNit> the 'hello world' only uses the web right? that's not helpful
+[16:44:24] <NeatNit> reading the second one though
+[16:44:24] <mooj> how to get started with git and github:
+[16:44:25] <Karjala> Good Morning NP
+[16:44:30] <mooj> go to the store and get a box of tissues
+[16:44:32] <Karjala> why do I have to go to work?
+[16:44:38] <Karjala> Oh that's right... the billllllssss...
+[16:44:39] <mooj> because you will be crying for the next few years
+[16:44:46] <NeatNit> mooj, I already have one next to me
+[16:44:54] <mooj> oh
+[16:44:54] <Karjala> lol mooj
+[16:44:56] <mooj> well awesome!
+[16:45:00] <NeatNit> so I'm ready?
+[16:45:13] <mooj> pretty much!  is your monitor fist-resistant?
+[16:45:30] <mooj> its not necessary, but it can help mitigate some costs
+[16:45:37] <NeatNit> I'm not sure
+[16:45:41] <NeatNit> how do I check?
+[16:45:45] <mooj> dont worry about it then
+[16:45:50] <mooj> you'll find out soon enough ;D
+[16:45:56] <NeatNit> oh okay :D
+[16:47:35] <NeatNit> I don't understand why git wanted to install bash
+[16:47:38] <NeatNit> I did let it do that though
+[16:49:21] <daman> @PDA
+[16:49:22] <Karjala> !weather brooklyn
+[16:49:24] <PDA> [weather] Brooklyn, NY, USA: 11.8°C / 53.2°F (feels like 11.8°C / 53.2°F), Clear (cloud coverage: 1%), humidity: 61%, wind: 2.39 m/s blowing NNE, pressure: 1031.44 mbar
+[16:49:31] <Karjala> ok maybe no more shirts
+[16:49:38] <Jay2k1> daman: PDA is a bot
+[16:49:45] <NeatNit> !weather רעננה
+[16:49:48] <PDA> [weather] Ra'anana, Israel: 26°C / 78.8°F (feels like 26°C / 78.8°F), Clear (cloud coverage: 3%), humidity: 55%, wind: 4.5 m/s blowing NW, pressure: 1014.39 mbar
+[16:49:49] <NeatNit> !weather hell
+[16:49:50] <PDA> [weather] Hell, MI 48169, USA: 11.5°C / 52.6°F (feels like 11.5°C / 52.6°F), Clear (cloud coverage: 23%), humidity: 81%, wind: 3.47 m/s blowing SSE, pressure: 1026.06 mbar
+[16:49:59] <NeatNit> is it a bad sign that my home is hotter than hell?
+[16:50:10] <Karjala> ummm I am not saying it
+[16:50:11] <Karjala> you are :)
+[16:50:15] <Karjala> ---> work
+[16:50:35] <Gnarph> !weather Linköping
+[16:50:39] <PDA> [weather] Linköping, Sweden: 9.6°C / 49.2°F (feels like 7.1°C / 44.7°F), Mostly Cloudy (cloud coverage: 71%), humidity: 74%, wind: 4.9 m/s blowing ENE, pressure: 1032.89 mbar
+[16:53:08] <NeatNit> mooj, there's a lot of terminology that I don't want to have to learn :(
+[16:57:07] <mooj> yeah
+[16:57:09] <mooj> yeaaaah.
